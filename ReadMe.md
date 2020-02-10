@@ -1,4 +1,4 @@
-DataAIN4002 Assignment 1 2019
+AIN4002 Assignment 1 2019
 Your task for this assignment is to train a model to perform linear regression, using Python. The purpose of this model is to predict the Percentage achieved in a subject when a student spends a specific amount of minutes studying. To complete this task, you need to do the following:
 1. Consult the DataSetStudentNumber.pdf file to determine which Data Set and set of Extra Instructions you need to use to complete your assignment.
 2. Download the DataSets.zip file and find the file number associated with your student number.
